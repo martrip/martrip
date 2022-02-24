@@ -7,7 +7,7 @@ About me:
 
 Skills:
 - Python :snake:
-- R ®️	:registered:
+- R️	:registered:
 - SQL :elephant:
 
 Get in touch with me on [LinkedIn](www.linkedin.com/in/martina-trippel-954191207).
